@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\.net sample code test on azure app service.props" />
+</Project>

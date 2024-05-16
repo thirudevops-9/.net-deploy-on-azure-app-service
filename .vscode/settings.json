@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/cead0b41-07d4-4f16-873b-83dfba1367c3/resourceGroups/SmeepleDev/providers/Microsoft.Web/sites/smeeple-dev"
+}

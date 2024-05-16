@@ -1,0 +1,30 @@
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\appsettings.Development.json
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\appsettings.json
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\.net sample code test on azure app service.staticwebassets.runtime.json
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\.net sample code test on azure app service.exe
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\.net sample code test on azure app service.deps.json
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\.net sample code test on azure app service.runtimeconfig.json
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\.net sample code test on azure app service.dll
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\.net sample code test on azure app service.pdb
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\.net sample code test on azure app service.GeneratedMSBuildEditorConfig.editorconfig
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\.net sample code test on azure app service.AssemblyInfoInputs.cache
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\.net sample code test on azure app service.AssemblyInfo.cs
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\.net sample code test on azure app service.csproj.CoreCompileInputs.cache
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\.net sample code test on azure app service.MvcApplicationPartsAssemblyInfo.cache
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\.net sample code test on azure app service.RazorAssemblyInfo.cache
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\.net sample code test on azure app service.RazorAssemblyInfo.cs
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\staticwebassets.build.json
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\staticwebassets.development.json
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\staticwebassets\msbuild..net sample code test on azure app service.Microsoft.AspNetCore.StaticWebAssets.props
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\staticwebassets\msbuild.build..net sample code test on azure app service.props
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting..net sample code test on azure app service.props
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive..net sample code test on azure app service.props
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\staticwebassets.pack.json
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\scopedcss\bundle\.net sample code test on azure app service.styles.css
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\scopedcss\projectbundle\.net sample code test on azure app service.bundle.scp.css
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\.net sample code test on azure app service.dll
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\refint\.net sample code test on azure app service.dll
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\.net sample code test on azure app service.pdb
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\.net sample code test on azure app service.genruntimeconfig.cache
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\obj\Release\net8.0\ref\.net sample code test on azure app service.dll

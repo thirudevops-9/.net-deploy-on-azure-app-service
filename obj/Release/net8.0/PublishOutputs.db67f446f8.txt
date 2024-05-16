@@ -1,0 +1,7 @@
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\publish\.net sample code test on azure app service.exe
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\publish\appsettings.Development.json
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\publish\appsettings.json
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\publish\.net sample code test on azure app service.dll
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\publish\.net sample code test on azure app service.deps.json
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\publish\.net sample code test on azure app service.runtimeconfig.json
+D:\@Raunak-RND\@Projects\Smeeple\Dev-infra\.net sample code test on azure app service\bin\Release\net8.0\publish\.net sample code test on azure app service.pdb
